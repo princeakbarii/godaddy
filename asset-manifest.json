@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/godaddynpm%20install%20--save%20gh-pages/static/css/main.68418579.css",
+    "main.js": "/godaddynpm%20install%20--save%20gh-pages/static/js/main.bd74f954.js",
+    "static/js/453.17a16993.chunk.js": "/godaddynpm%20install%20--save%20gh-pages/static/js/453.17a16993.chunk.js",
+    "static/media/logo.png": "/godaddynpm%20install%20--save%20gh-pages/static/media/logo.7726874ee127693c0458.png",
+    "static/media/section-img.webp": "/godaddynpm%20install%20--save%20gh-pages/static/media/section-img.b80fed2b00bcfc12d780.webp",
+    "static/media/img-2.webp": "/godaddynpm%20install%20--save%20gh-pages/static/media/img-2.52cfab3aa46c6b4c1912.webp",
+    "index.html": "/godaddynpm%20install%20--save%20gh-pages/index.html",
+    "main.68418579.css.map": "/godaddynpm%20install%20--save%20gh-pages/static/css/main.68418579.css.map",
+    "main.bd74f954.js.map": "/godaddynpm%20install%20--save%20gh-pages/static/js/main.bd74f954.js.map",
+    "453.17a16993.chunk.js.map": "/godaddynpm%20install%20--save%20gh-pages/static/js/453.17a16993.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68418579.css",
+    "static/js/main.bd74f954.js"
+  ]
+}
